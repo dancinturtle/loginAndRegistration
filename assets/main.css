@@ -1,0 +1,22 @@
+form {
+	border: 1px solid silver;
+	padding: 15px;
+}
+.infobox {
+	border: 1px solid silver;
+	padding: 15px;
+	background-color: #F1F1F1;
+}
+.red {
+	color: red;
+}
+.green {
+	color: green;
+}
+.right {
+	display: inline-block;
+
+}
+.right a {
+	margin-left: 400px;
+}
